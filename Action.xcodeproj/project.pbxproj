@@ -60,7 +60,6 @@
 		C4D3237F2285AEAD004B05A5 /* ActionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D3237D2285ADF7004B05A5 /* ActionTests.swift */; };
 		C4DE00052229758700FB50AB /* Action+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DE00042229758700FB50AB /* Action+Extensions.swift */; };
 		FA35FEE4249732450072FBEA /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA35FEE2249732450072FBEA /* RxSwift.framework */; };
-		FA35FEE6249732450072FBEA /* RxCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA35FEE3249732450072FBEA /* RxCocoa.framework */; };
 		FA35FEED249732900072FBEA /* RxCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA35FEEB249732900072FBEA /* RxCocoa.framework */; };
 		FA35FEEF249732900072FBEA /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA35FEEC249732900072FBEA /* RxSwift.framework */; };
 		FA35FEF4249732AA0072FBEA /* RxCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA35FEF2249732AA0072FBEA /* RxCocoa.framework */; };
@@ -217,7 +216,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA35FEE6249732450072FBEA /* RxCocoa.framework in Frameworks */,
 				FA35FEE4249732450072FBEA /* RxSwift.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
